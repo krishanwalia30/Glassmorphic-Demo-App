@@ -1,16 +1,15 @@
-# glassmorphism
+# Glassmorphic App  
+<img src = 'https://miro.medium.com/v2/resize:fit:828/format:webp/1*zb6NRM2sPGhe33nD3TnRDQ.png'>
+An application made using the flutter framework with an aim to demonstrate the glassmorphism effect in flutter apps and how anyone can easily integrate the glassmorphism User Interface in their projects with ease and can make their projects not only look more beautiful but would also eventually lead to an increase in overall User Experience.
 
-A new Flutter project.
+## Preview of the Application
 
-## Getting Started
+<img src= 'https://miro.medium.com/v2/resize:fit:640/format:webp/0*bUZLdrBVruvmbmhd.png'>
 
-This project is a starting point for a Flutter application.
+## Youtube Video Preview
+#### <a href='https://youtu.be/Tfw-1CzDnvs'>Youtube</a>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Read more about this here,
+#### <a href='https://medium.com/@krishanw30/create-beautiful-ui-in-flutter-using-glassmorphism-35a381660d52'>Medium</a>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
